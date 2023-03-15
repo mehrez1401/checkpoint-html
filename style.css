@@ -1,0 +1,22 @@
+nav{ 
+    
+    font-size: 32px;
+background-color:floralwhite;
+text-align: center;}
+nav>a{
+    color: brown;
+    display: inline;
+    
+}
+h1{text-align: center;}
+body{
+    background-color: coral;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.hello{color: red;
+font-size: 23px;}
+
+
+
+
+     
